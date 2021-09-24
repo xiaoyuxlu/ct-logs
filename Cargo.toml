@@ -10,4 +10,4 @@ homepage = "https://github.com/ctz/ct-logs"
 repository = "https://github.com/ctz/ct-logs"
 
 [dependencies]
-sct = "0.7.0"
+sct = { git = "https://github.com/jyao1/sct.rs.git", branch = "uefi_support" }
